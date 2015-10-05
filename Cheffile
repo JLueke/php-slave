@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+site 'http://community.opscode.com/api/v1'
+
+cookbook 'apt', '~> 2.7.0'
+cookbook 'curl', '~> 2.0.1'
+cookbook 'apache2', '~> 3.1.0'
+cookbook 'php', '~> 1.7.2'
+
+
