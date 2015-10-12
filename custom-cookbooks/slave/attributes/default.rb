@@ -1,2 +1,2 @@
-default['apache']['contact'] = 'thorsten.hallwas@xing.com'
+default['apache']['contact'] = 'webmaster@localhost'
 default['apache']['mpm'] = 'prefork'
